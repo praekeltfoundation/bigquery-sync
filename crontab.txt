@@ -1,0 +1,2 @@
+0 * * * * cd /app && /usr/local/bin/python -u rapidpro_to_bigquery.py >> /var/log/cron.log 2>&1
+0 * * * * cd /app && /usr/local/bin/python -u ping.py >> /var/log/cron.log 2>&1

@@ -1,0 +1,3 @@
+rapidpro-python
+google-cloud-bigquery
+sentry-sdk
